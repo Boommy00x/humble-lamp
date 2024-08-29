@@ -1,0 +1,253 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Sumofproduct",
+            "request": "launch",
+            "mainClass": "Sumofproduct",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "ShowAtoZ",
+            "request": "launch",
+            "mainClass": "ShowAtoZ",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Tribonacci",
+            "request": "launch",
+            "mainClass": "Tribonacci",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "ExamChecker",
+            "request": "launch",
+            "mainClass": "ExamChecker",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "ShowstarPattern",
+            "request": "launch",
+            "mainClass": "ShowstarPattern",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "G",
+            "request": "launch",
+            "mainClass": "G",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Charlest",
+            "request": "launch",
+            "mainClass": "Charlest",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Dialog",
+            "request": "launch",
+            "mainClass": "Dialog",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "MessageDialogs1",
+            "request": "launch",
+            "mainClass": "MessageDialogs1",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "DialogExample",
+            "request": "launch",
+            "mainClass": "DialogExample",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Everageandsum",
+            "request": "launch",
+            "mainClass": "Everageandsum",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Fact",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "preexam1",
+            "request": "launch",
+            "mainClass": "preexam1",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Find",
+            "request": "launch",
+            "mainClass": "Find",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "FindMaxM",
+            "request": "launch",
+            "mainClass": "FindMaxM",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Grading",
+            "request": "launch",
+            "mainClass": "Grading",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Grading",
+            "request": "launch",
+            "mainClass": "programingTH.Grading",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "PrimMST",
+            "request": "launch",
+            "mainClass": "PrimMST",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "CharacterCount",
+            "request": "launch",
+            "mainClass": "CharacterCount",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Counting",
+            "request": "launch",
+            "mainClass": "Counting",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "CountingofChars",
+            "request": "launch",
+            "mainClass": "CountingofChars",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Leastofcharacters",
+            "request": "launch",
+            "mainClass": "Leastofcharacters",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "FindMaxandMin",
+            "request": "launch",
+            "mainClass": "FindMaxandMin",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Findmaxmin",
+            "request": "launch",
+            "mainClass": "Findmaxmin",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "FindMinMax",
+            "request": "launch",
+            "mainClass": "FindMinMax",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "FindMaximumAndMinimum",
+            "request": "launch",
+            "mainClass": "FindMaximumAndMinimum",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Findmaxixumandminimum",
+            "request": "launch",
+            "mainClass": "Findmaxixumandminimum",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Traiangle",
+            "request": "launch",
+            "mainClass": "Traiangle",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Rectangel",
+            "request": "launch",
+            "mainClass": "Rectangel",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Traiangel",
+            "request": "launch",
+            "mainClass": "Traiangel",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Ex",
+            "request": "launch",
+            "mainClass": "Ex",
+            "projectName": "codespaces-blank_ba63f403"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "codespaces-blank_ba63f403"
+        }
+    ]
+}
